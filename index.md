@@ -18,4 +18,4 @@ Professor : Hao Zhang
     One potential change I would think would have been better is that we began work with deep learning codes a bit earlier in the quarter. We spent the first 5 weeks of the quarter learning about the theory, but having small coding assignments would have been helpful to understand the theory better and have some experience with creating LLM earlier.
 4. What other techniques would you be interested in using in your project?
 
-    I think that it will be interesting to use 
+    I think that it will be interesting to use and finetune other large language models like Mistral so our group knows how to work with many differnt models and not just llama. 
